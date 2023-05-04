@@ -1,4 +1,4 @@
-Venomics is the data tool built on top of the own Data Platform, designed to make it as easy as possible for anyone with at least a little bit of SQL, Threaded Virtual Machine, and Business knowledge to analyze blockchain data in interesting ways.
+**Venomics** is the data tool built on top of the own Data Platform, designed to make it as easy as possible for anyone with at least a little bit of SQL, Threaded Virtual Machine, and Business knowledge to analyze blockchain data in interesting ways.
 
 A few key points about its functionality:
 
