@@ -9,7 +9,7 @@ A few key points about its functionality:
   - **Extensibility:** Venomics is highly extensible and can be customized to fit the needs of specific VENOM projects or use cases. It provides a plugin architecture that allows users to add new data sources, visualizations, and other features.
 
 
-Public dashboards examples:
+### Public dashboards examples:
 
 [Overall Traded Tokens Data](https://venomics.xyz/public/dashboards/Q5viWVWPk4njIq7ijVIZjlm8ZHMBxBZzCxQnrARX)
 
