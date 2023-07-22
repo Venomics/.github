@@ -15,6 +15,17 @@ A few key points about its functionality:
 
 [Total Value Locked (TVL)](https://venomics.xyz/public/dashboards/cnO32UW9aUyJFOofBiK8OuxY9GShzIQXgjwwwwHU)
 
+### Usage
+Sign-up via Github on www.venomics.xyz
+
+### Python API Client
+
+https://github.com/Venomics/venomics-api-client
+
+https://pypi.org/project/venomics-client/
+
+
+
 <p align="center">
   <a href="https://github.com/venom-blockchain/developer-program">
     <img src="https://raw.githubusercontent.com/venom-blockchain/developer-program/main/vf-dev-program.png" alt="Logo" width="366.8" height="146.4">
