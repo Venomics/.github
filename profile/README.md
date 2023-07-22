@@ -16,7 +16,7 @@ A few key points about its functionality:
 [Total Value Locked (TVL)](https://venomics.xyz/public/dashboards/cnO32UW9aUyJFOofBiK8OuxY9GShzIQXgjwwwwHU)
 
 ### Usage
-Sign-up via Github on www.venomics.xyz
+Sign-up via Github on [www.venomics.xyz](https://venomics.xyz/)
 
 ### Python API Client
 
