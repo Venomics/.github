@@ -14,5 +14,3 @@ A few key points about its functionality:
 [Overall Traded Tokens Data](https://venomics.xyz/public/dashboards/Q5viWVWPk4njIq7ijVIZjlm8ZHMBxBZzCxQnrARX)
 
 [Total Value Locked (TVL)](https://venomics.xyz/public/dashboards/cnO32UW9aUyJFOofBiK8OuxY9GShzIQXgjwwwwHU)
-
-![More](https://i.postimg.cc/5jW2gpNd/Screenshot-2023-06-07-at-12-33-32.png)
